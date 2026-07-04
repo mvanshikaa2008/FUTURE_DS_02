@@ -30,13 +30,13 @@ DAX (Data Analysis Expressions)
 
 📈 Key Performance Indicators (KPIs)
 
-Total Customers
-
-Active Customers
-
-Churned Customers
-
-Customer Churn Rate
+  Total Customers
+  
+  Active Customers
+  
+  Churned Customers
+  
+  Customer Churn Rate
 
 📊 Key Insights
 
